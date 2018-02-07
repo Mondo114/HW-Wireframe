@@ -1,0 +1,45 @@
+body {
+    font-size: 18px;
+    line-height: 32px;
+    background:#777;
+}
+
+#header {
+    font-size: 18px;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #ebebeb;
+  }
+
+  #nav {
+    font-size: 18px;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #ebebeb;
+  }
+
+  #nav {
+    font-size: 18px;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #ebebeb;
+  }
+
+  #section {
+    font-size: 18px;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #ebebeb;
+  }
+
+  #article {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #ebebeb;
+  }
+
+  #footer {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #ebebeb;
+  }
